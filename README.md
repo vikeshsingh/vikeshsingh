@@ -7,7 +7,7 @@
 
 <h2>🌟 Work Experience</h2>
 <ul>
-  <li>💻 <strong>Senior PHP Developer | Laravel Technical Lead</strong></li>
+  <li>💻 <strong>Senior PHP & Python Developer | Laravel/FastAPI Technical Lead</strong></li>
   <li>🔹 Previously worked at <strong><a href="https://www.indevconsultancy.com" target="_blank">Indev Consultancy</a></strong> & 
       <strong><a href="https://www.valuecoders.com" target="_blank">ValueCoders</a></strong>.</li>
   <li>🚀 Developed scalable web applications using Laravel, PHP, and MySQL.</li>
@@ -20,14 +20,14 @@
 
 <h3>🚀 Backend Development</h3>
 <ul>
-  <li>✔ <strong>PHP, Laravel, CodeIgniter</strong></li>
+  <li>✔ <strong>PHP, Python, FastAPI Laravel, CodeIgniter</strong></li>
   <li>✔ <strong>RESTful APIs, GraphQL, OAuth, JWT Authentication</strong></li>
   <li>✔ <strong>Microservices, Queue Management (Redis, RabbitMQ, Kafka)</strong></li>
 </ul>
 
 <h3>📊 Database Management</h3>
 <ul>
-  <li>✔ <strong>MySQL, PostgreSQL, ClickHouse, Redis, Elasticsearch</strong></li>
+  <li>✔ <strong>MySQL, PostgreSQL, MongoDB</strong></li>
   <li>✔ <strong>Database Indexing, Query Optimization, Partitioning & Sharding</strong></li>
 </ul>
 
@@ -40,7 +40,7 @@
 
 <h3>🎨 Frontend Technologies</h3>
 <ul>
-  <li>✔ <strong>Vue.js, Blade, JavaScript, Bootstrap, Tailwind CSS</strong></li>
+  <li>✔ <strong>HTML, JavaScript, Bootstrap, CSS</strong></li>
 </ul>
 
 <hr>
