@@ -63,7 +63,7 @@ production deployment. Also pursuing an MCA in Machine Learning & AI.
 | Public-sector MIS reach | **50M+ users** across **2.5 lakh+ villages** |
 | SkillSaathi (NSDC) registrations | **36 lakh+** candidates |
 | Monthly transactions handled (Invoicera, WorkStatus) | **100,000+** |
-| REST APIs engineered (multi-tenant SaaS) | **50+** |
+| REST APIs engineered (multi-tenant SaaS) | **5k+** |
 | Payment gateway success rate | **99.5%** across Stripe / Razorpay integrations |
 | CI/CD release time | **−70%** with GitHub Actions / Jenkins pipelines |
 | Workflow productivity (browser extension) | **+25%** |
