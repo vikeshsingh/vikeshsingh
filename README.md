@@ -1,6 +1,9 @@
+<img align="left" width="110" height="110" src="https://images.weserv.nl/?url=github.com/vikeshsingh.png&mask=circle&w=220&h=220" alt="Vikesh Singh"/>
+<br clear="left"/>
+
 <div align="center">
 
-<img width="100%" src="assets/banner.png" alt="Vikesh Singh"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:7B2FF7&height=200&section=header&text=Vikesh%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Senior%20Platform%20Engineer%20%7C%20Backend%20Architecture%20%7C%20APIs%20and%20Microservices%20at%20Scale&descAlignY=58&descSize=18&descColor=E8ECFF" alt="Vikesh Singh"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7B2FF7&center=true&vCenter=true&width=640&lines=8%2B+years+building+production+backend+systems;Laravel+%2B+Python+%2F+FastAPI+%2B+MySQL+%2B+Redis+%2B+Docker;Platforms+serving+50M%2B+users+across+India)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2E9EF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/developervikeshsingh)
