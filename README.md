@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:7B2FF7&height=200&section=header&text=Vikesh%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Senior%20Platform%20Engineer%20%7C%20Backend%20Architecture%20%7C%20APIs%20and%20Microservices%20at%20Scale&descAlignY=58&descSize=18&descColor=E8ECFF" alt="Vikesh Singh"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7B2FF7&center=true&vCenter=true&width=640&lines=8%2B+years+building+production+backend+systems;Laravel+%2B+Python+%2F+FastAPI+%2B+MySQL+%2B+Redis+%2B+Docker;Platforms+serving+50M%2B+users+across+India)](https://git.io/typing-svg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E9EF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/developervikeshsingh)
-[![Email](https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikesh121singh@gmail.com)
+<a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7B2FF7&center=true&vCenter=true&width=640&lines=8%2B+years+building+production+backend+systems;Laravel+%2B+Python+%2F+FastAPI+%2B+MySQL+%2B+Redis+%2B+Docker;Platforms+serving+50M%2B+users+across+India)</a>
+<a href="https://linkedin.com/in/developervikeshsingh" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-2E9EF7?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:vikesh121singh@gmail.com" target="_blank" rel="noopener noreferrer">![Email](https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:7B2FF7&height=3&section=header" alt=""/>
 
@@ -26,13 +26,13 @@ production deployment. Also pursuing an MCA in Machine Learning & AI.
 
 ### 💼 Experience
 
-**[DTDC](https://www.dtdc.com/in/) — Senior Platform Engineer** *(Dec 2025 – Present)*
-- Building and maintaining **[Kaarigo](https://www.kaarigo.com)**, DTDC's marketplace platform for
+**<a href="https://www.dtdc.com/in/" target="_blank" rel="noopener noreferrer">DTDC</a> — Senior Platform Engineer** *(Dec 2025 – Present)*
+- Building and maintaining **<a href="https://www.kaarigo.com" target="_blank" rel="noopener noreferrer">Kaarigo</a>**, DTDC's marketplace platform for
   authentic handmade products from Indian artisans.
 - Stack: Laravel, Vue.js, MySQL, Redis, Docker, Kafka — platform architecture, caching
   strategy, and event-driven service integration.
 
-**[HCAH (Healthcare at Home)](https://www.hcah.in/) — Senior Software Developer** *(May 2023 – Nov 2025)*
+**<a href="https://www.hcah.in/" target="_blank" rel="noopener noreferrer">HCAH (Healthcare at Home)</a> — Senior Software Developer** *(May 2023 – Nov 2025)*
 - Led development of a high-performance CAS application in Laravel; optimized MySQL
   queries and added Redis caching for a **40% improvement in API response time**.
 - Led migration of 500,000+ patient records from MongoDB to MySQL via purpose-built
@@ -41,13 +41,13 @@ production deployment. Also pursuing an MCA in Machine Learning & AI.
   tracking, caregiver booking, Transition Care & ICU-at-Home services).
 - Delivered a WordPress-based blog section and managed servers and database operations.
 
-**[Vinove Software](https://www.valuecoders.com) — Senior Software Developer** *(Oct 2021 – Apr 2023)*
+**<a href="https://www.valuecoders.com" target="_blank" rel="noopener noreferrer">Vinove Software</a> — Senior Software Developer** *(Oct 2021 – Apr 2023)*
 - Built **Invoicera** (invoicing SaaS) and **WorkStatus** (workforce tracking SaaS) using
   Core PHP/Laravel, MySQL, Redis, and Docker.
 - Built a browser extension for WorkStatus using Vue.js and IndexedDB.
 - Managed clients, servers, and full-stack delivery; mentored junior developers.
 
-**[Indev Consultancy](https://www.indevconsultancy.com) — Software Developer** *(2019 – Sep 2021)*
+**<a href="https://www.indevconsultancy.com" target="_blank" rel="noopener noreferrer">Indev Consultancy</a> — Software Developer** *(2019 – Sep 2021)*
 - Delivered national-scale MIS platforms for government and NGO programs (NSDC,
   Swachh Bharat Mission, RKSK) reaching **50M+ users** across **2.5 lakh+ villages**.
 - Owned end-to-end web & API development, client handling, and deployment across
@@ -129,60 +129,60 @@ production deployment. Also pursuing an MCA in Machine Learning & AI.
 
 - **[CAS Panel (HCAH)](#)** — Online doctor booking, lead creation & tracking, caregiver
   booking, Transition Care & ICU-at-Home services. *Laravel, MySQL.*
-- **[hcah.in](https://www.hcah.in)** — Backend APIs for HCAH's public site and booking flows.
+- **<a href="https://www.hcah.in" target="_blank" rel="noopener noreferrer">hcah.in</a>** — Backend APIs for HCAH's public site and booking flows.
   *Laravel, MySQL, WordPress.*
-- **[Sightsaver MIS](https://www.sightsavers.org)** — Hospital data capture, automated
+- **<a href="https://www.sightsavers.org" target="_blank" rel="noopener noreferrer">Sightsaver MIS</a>** — Hospital data capture, automated
   bed/room allocation, and dynamic reporting for an international NGO. *CodeIgniter, MySQL.*
 
 **E-commerce & marketplace**
 
-- **[Kaarigo](https://www.kaarigo.com)** — Multi-vendor e-commerce marketplace for
+- **<a href="https://www.kaarigo.com" target="_blank" rel="noopener noreferrer">Kaarigo</a>** — Multi-vendor e-commerce marketplace for
   authentic handmade products from Indian artisans (DTDC). *Laravel, Vue.js, MySQL,
   Redis, Docker, Kafka.*
-- **[ipsalabs.com](https://www.ipsalabs.com)** — E-commerce platform: product filtering,
+- **<a href="https://www.ipsalabs.com" target="_blank" rel="noopener noreferrer">ipsalabs.com</a>** — E-commerce platform: product filtering,
   cart/checkout, multiple payment options, offer management. *Core PHP, MySQL.*
 - **[Restaurant Management System](#)** — Restaurant management & invoicing: table
   booking, split billing, kitchen-app integration. *Core PHP, MySQL.*
 
 **Government & public-sector MIS**
 
-- **[SkillSaathi (NSDC)](https://www.nsdcindia.org)** — PAN-India skilling platform;
+- **<a href="https://www.nsdcindia.org" target="_blank" rel="noopener noreferrer">SkillSaathi (NSDC)</a>** — PAN-India skilling platform;
   **36 lakh+** candidates registered via mobile app, with geo-verified approval and reporting.
 - **[Sudridha Bharat Application (SBA)](#)** — Nutrition monitoring for JSW Foundation &
   Govt. of Maharashtra; 1,800+ Anganwadi centers, 1.25 lakh+ children and 1.17 lakh+
   women/girls tracked monthly via mobile MIS.
-- **[Swachh Bharat Mission – Gramin (SBM-G)](https://swachhbharatmission.ddws.gov.in)** —
+- **<a href="https://swachhbharatmission.ddws.gov.in" target="_blank" rel="noopener noreferrer">Swachh Bharat Mission – Gramin (SBM-G)</a>** —
   Training & capacity-building MIS for Ministry of Jal Shakti (DDWS) & World Bank
   across 2.5 lakh+ villages.
-- **[Flood Early Warning System (TERI)](https://www.teriin.org)** — Hydrology modeling
+- **<a href="https://www.teriin.org" target="_blank" rel="noopener noreferrer">Flood Early Warning System (TERI)</a>** — Hydrology modeling
   (MIKE model) with Python & R, integrating IMD forecast data to predict floods 72
   hours ahead for Assam.
 - **[RKSK & Midwifery Initiative (WHO)](#)** — MIS + CMS + mobile apps for adolescent
   health knowledge management and institutional data collection.
-- **[TcvApp (NSDC)](https://www.nsdcindia.org)** — Online training centre verification:
+- **<a href="https://www.nsdcindia.org" target="_blank" rel="noopener noreferrer">TcvApp (NSDC)</a>** — Online training centre verification:
   registration, mobile data capture, geo-validated ratings & reviews, automated reporting.
-- **[TPHUB (NSDC)](https://www.nsdcindia.org)** — Online training partner verification:
+- **<a href="https://www.nsdcindia.org" target="_blank" rel="noopener noreferrer">TPHUB (NSDC)</a>** — Online training partner verification:
   registration, data capture and validation, monthly automated reporting to partners.
 - **[Narad (IVRS)](#)** — IVRS system for outbound/inbound campaigns, call recording and
   scheduling. *CodeIgniter, Python.*
-- **[Daily Work Management (BARC India)](https://www.barcindia.co.in)** — Field-data
+- **<a href="https://www.barcindia.co.in" target="_blank" rel="noopener noreferrer">Daily Work Management (BARC India)</a>** — Field-data
   ingestion and indicator reporting from Salesforce exports.
 
 **SaaS & enterprise tools**
 
-- **[Invoicera](https://www.invoicera.com)** — Online invoicing SaaS: subscription billing,
+- **<a href="https://www.invoicera.com" target="_blank" rel="noopener noreferrer">Invoicera</a>** — Online invoicing SaaS: subscription billing,
   payments, project & time tracking, client management.
-- **[WorkStatus](https://www.workstatus.io)** — Workforce tracking SaaS: time tracking,
+- **<a href="https://www.workstatus.io" target="_blank" rel="noopener noreferrer">WorkStatus</a>** — Workforce tracking SaaS: time tracking,
   geofencing, attendance, selfie validation, GPS tracking, invoicing.
 - **[WorkStatus Browser Extension](#)** — Companion Chrome extension for WorkStatus with
   the same time-tracking/geofencing feature set. *Vue.js, JavaScript, IndexedDB.*
-- **[SoftwareFirms](https://www.softwarefirms.co)** — Directory platform connecting
+- **<a href="https://www.softwarefirms.co" target="_blank" rel="noopener noreferrer">SoftwareFirms</a>** — Directory platform connecting
   businesses with software service providers.
 - **[Project Management System (Jubilant Bhartia Group)](#)** — Multi-org project &
   budget management with dashboards and dynamic reporting.
 - **[SmartAgri (Vodafone Idea)](#)** — Farmer alert system via bulk SMS/IVRS with usage
   analytics.
-- **[Indevjobs.org](https://www.indevjobs.org)** — Job portal for the NGO sector with
+- **<a href="https://www.indevjobs.org" target="_blank" rel="noopener noreferrer">Indevjobs.org</a>** — Job portal for the NGO sector with
   employer/job-seeker profiles and alerting.
 
 **Education & LMS**
